@@ -1,0 +1,16 @@
+
+> dev
+> cross-env UMI_DEV_SERVER_COMPRESS=none umi dev
+
+info  - [你知道吗？] umi g component 可以快速生成组件模板，详见 https://umijs.org/docs/guides/generator#组件生成器
+info  - Umi v4.2.3
+info  - Preparing...
+info  - [icons] generate icons local:google, local:github
+info  - [plugin: ./node_modules/@umijs/plugins/dist/tailwindcss] tailwindcss service started
+info  - [icons] generate icons local:google, local:github
+info  - [icons] generate icons local:google, local:github
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+info  - [MFSU][eager] worker init, takes 1326ms
+error - [plugin: ./node_modules/@umijs/plugins/dist/tailwindcss] tailwindcss generate failed after 5 seconds, please check your tailwind.css and tailwind.config.js
